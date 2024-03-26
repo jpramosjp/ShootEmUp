@@ -11,9 +11,12 @@ Desenvolvido na Unity com a linguagem C#.
 </p>
 
 
+### COMO USAR?
+esse é o projeto em si, para utilizar ele é ncessário instalar a unity e importa o projeto para poder executar
+
 ### ASSETS
 
-O jogo foi utilizado Assets Gratuitos como gráficos e sons
+Foram utilizados no jogo assets gratuitos, em especial nos gráficos e nos sons.
 
 Gráficos: 
 
