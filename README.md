@@ -11,3 +11,23 @@ Desenvolvido na Unity com a linguagem C#.
 </p>
 
 
+### ASSETS
+
+O jogo foi utilizado Assets Gratuitos como gráficos e sons
+
+Gráficos: 
+
+https://grafxkid.itch.io/mini-pixel-pack-3
+
+https://gvituri.itch.io/space-shooter
+
+https://opengameart.org/content/colorized-boss-sprites
+
+
+Sons:
+
+https://pixabay.com/sound-effects/search/earth%20rumble/
+
+https://mixkit.co/free-sound-effects/shot/
+
+https://mixkit.co/free-stock-music/tag/space/
