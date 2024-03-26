@@ -12,7 +12,7 @@ Desenvolvido na Unity com a linguagem C#.
 
 
 ### COMO USAR?
-esse é o projeto em si, para utilizar ele é ncessário instalar a unity e importa o projeto para poder executar
+Eesse é a carcaça do projeto, para utilizar ele é ncessário instalar a unity e importa o projeto para poder executar.
 
 ### ASSETS
 
